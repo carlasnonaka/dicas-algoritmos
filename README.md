@@ -1,6 +1,6 @@
-# Indice das Dicas de Algoritmo com Visualg 💻
+# DICAS DE ALGORITMO E LÓGICA DE PROGRAMAÇÃO 💻
 
-Bem vindos galerinha! 🙋 Preparei com muito carinho 💖 umas Dicas de Algoritmos e Lógica de Programação, voltadas para o programa VisualG. Segue o link dos assuntos abordados:
+Bem vindos galerinha! 🙋 Preparei com muito carinho 💖 Dicas de Algoritmos e Lógica de Programação, com foco para utilização do programa VisualG. No Visualg é possível praticar toda lógica de programação e ver de fato tudo funcionando. Segue o link dos assuntos abordados:
 
 * [Introdução](https://github.com/carlasnonaka/dicas-algoritmos/blob/main/dicasAlgoritmo.md#computer-dicas-algoritmo-com-visualg-computer)
 * [Variável, Identificadores e Tipos](https://github.com/carlasnonaka/dicas-algoritmos/blob/main/dicasAlgoritmo.md#vari%C3%A1vel-identificadores-e-tipos)
